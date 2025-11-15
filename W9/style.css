@@ -1,0 +1,35 @@
+@charset "utf-8";
+.container header {
+    background-color: #9C784F;
+}
+ul li a {
+}
+.container header nav {
+    background-color: #986328;
+}
+
+
+ul li a {
+}
+.container #hero {
+    background-image: url(images/bread%20wallpaper.jpg);
+}
+.container #about {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,150,0,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,150,0,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,150,0,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,150,0,1.00) 100%);
+}
+.container.banner {
+    background-image: url(images/bread%20wallpaper%202.jpg);
+
+}
+.container .banner {
+    background-image: url(images/bread%20wallpaper%202.jpg);
+}
+.container #contact {
+    background-image: url(images/bread%20wallpaper.jpg);
+}
+.container .copyright {
+    background-color: #AB712F;
+}
